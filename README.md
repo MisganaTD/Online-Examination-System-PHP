@@ -1,6 +1,4 @@
 # Online Examination System 
-
-## Introduction
 This is a web-based Online Examination System developed using PHP and MySQL. This application is beneficial for both the college and students. With this system, departments can register and host online exams. Students can take exams, read module or download and view their results. 
  ## Features
 *   ** Student Features:**
